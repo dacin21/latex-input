@@ -23,6 +23,7 @@
 \Psi Ψ
 \Re ℜ
 \Rightarrow ⇒
+\To ⇒
 \Rrightarrow ⇛
 \Rsh ↱
 \Subset ⋐
@@ -243,6 +244,7 @@
 \rhd ⊳
 \rho ρ
 \rightarrow →
+\to →
 \rightarrowtail ↣
 \rightharpoondown ⇁
 \rightharpoonup ⇀
