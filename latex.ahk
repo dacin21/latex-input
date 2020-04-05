@@ -22,116 +22,8 @@ return
 :c:---::
 Send {U+2014}
 return
-:c:0::
-Send {U+0030}
-return
-:c:1::
-Send {U+0031}
-return
-:c:2::
-Send {U+0032}
-return
-:c:3::
-Send {U+0033}
-return
-:c:4::
-Send {U+0034}
-return
-:c:5::
-Send {U+0035}
-return
-:c:6::
-Send {U+0036}
-return
-:c:7::
-Send {U+0037}
-return
-:c:8::
-Send {U+0038}
-return
-:c:9::
-Send {U+0039}
-return
 :c:?'::
 Send {U+00BF}
-return
-:c:A::
-Send {U+0041}
-return
-:c:B::
-Send {U+0042}
-return
-:c:C::
-Send {U+0043}
-return
-:c:D::
-Send {U+0044}
-return
-:c:E::
-Send {U+0045}
-return
-:c:F::
-Send {U+0046}
-return
-:c:G::
-Send {U+0047}
-return
-:c:H::
-Send {U+0048}
-return
-:c:I::
-Send {U+0049}
-return
-:c:J::
-Send {U+004A}
-return
-:c:K::
-Send {U+004B}
-return
-:c:L::
-Send {U+004C}
-return
-:c:M::
-Send {U+004D}
-return
-:c:N::
-Send {U+004E}
-return
-:c:O::
-Send {U+004F}
-return
-:c:P::
-Send {U+0050}
-return
-:c:Q::
-Send {U+0051}
-return
-:c:R::
-Send {U+0052}
-return
-:c:S::
-Send {U+0053}
-return
-:c:T::
-Send {U+0054}
-return
-:c:U::
-Send {U+0055}
-return
-:c:V::
-Send {U+0056}
-return
-:c:W::
-Send {U+0057}
-return
-:c:X::
-Send {U+0058}
-return
-:c:Y::
-Send {U+0059}
-return
-:c:Z::
-Send {U+005A}
 return
 :c:\"A::
 Send {U+00C4}
@@ -856,6 +748,348 @@ return
 :c:\Lsh::
 Send {U+21B0}
 return
+:c:\MB0::
+Send {U+1D7D8}
+return
+:c:\MB1::
+Send {U+1D7D9}
+return
+:c:\MB2::
+Send {U+1D7DA}
+return
+:c:\MB3::
+Send {U+1D7DB}
+return
+:c:\MB4::
+Send {U+1D7DC}
+return
+:c:\MB5::
+Send {U+1D7DD}
+return
+:c:\MB6::
+Send {U+1D7DE}
+return
+:c:\MB7::
+Send {U+1D7DF}
+return
+:c:\MB8::
+Send {U+1D7E0}
+return
+:c:\MB9::
+Send {U+1D7E1}
+return
+:c:\MBA::
+Send {U+1D538}
+return
+:c:\MBB::
+Send {U+1D539}
+return
+:c:\MBC::
+Send {U+2102}
+return
+:c:\MBD::
+Send {U+1D53B}
+return
+:c:\MBE::
+Send {U+1D53C}
+return
+:c:\MBF::
+Send {U+1D53D}
+return
+:c:\MBG::
+Send {U+1D53E}
+return
+:c:\MBH::
+Send {U+210D}
+return
+:c:\MBI::
+Send {U+1D540}
+return
+:c:\MBJ::
+Send {U+1D541}
+return
+:c:\MBK::
+Send {U+1D542}
+return
+:c:\MBL::
+Send {U+1D543}
+return
+:c:\MBM::
+Send {U+1D544}
+return
+:c:\MBN::
+Send {U+2115}
+return
+:c:\MBO::
+Send {U+1D546}
+return
+:c:\MBP::
+Send {U+2119}
+return
+:c:\MBQ::
+Send {U+211A}
+return
+:c:\MBR::
+Send {U+211D}
+return
+:c:\MBS::
+Send {U+1D54A}
+return
+:c:\MBT::
+Send {U+1D54B}
+return
+:c:\MBU::
+Send {U+1D54C}
+return
+:c:\MBV::
+Send {U+1D54D}
+return
+:c:\MBW::
+Send {U+1D54E}
+return
+:c:\MBX::
+Send {U+1D54F}
+return
+:c:\MBY::
+Send {U+1D550}
+return
+:c:\MBZ::
+Send {U+2124}
+return
+:c:\MBa::
+Send {U+1D552}
+return
+:c:\MBb::
+Send {U+1D553}
+return
+:c:\MBc::
+Send {U+1D554}
+return
+:c:\MBd::
+Send {U+1D555}
+return
+:c:\MBe::
+Send {U+1D556}
+return
+:c:\MBf::
+Send {U+1D557}
+return
+:c:\MBg::
+Send {U+1D558}
+return
+:c:\MBh::
+Send {U+1D559}
+return
+:c:\MBi::
+Send {U+1D55A}
+return
+:c:\MBj::
+Send {U+1D55B}
+return
+:c:\MBk::
+Send {U+1D55C}
+return
+:c:\MBl::
+Send {U+1D55D}
+return
+:c:\MBm::
+Send {U+1D55E}
+return
+:c:\MBn::
+Send {U+1D55F}
+return
+:c:\MBo::
+Send {U+1D560}
+return
+:c:\MBp::
+Send {U+1D561}
+return
+:c:\MBq::
+Send {U+1D562}
+return
+:c:\MBr::
+Send {U+1D563}
+return
+:c:\MBs::
+Send {U+1D564}
+return
+:c:\MBt::
+Send {U+1D565}
+return
+:c:\MBu::
+Send {U+1D566}
+return
+:c:\MBv::
+Send {U+1D567}
+return
+:c:\MBw::
+Send {U+1D568}
+return
+:c:\MBx::
+Send {U+1D569}
+return
+:c:\MBy::
+Send {U+1D56A}
+return
+:c:\MBz::
+Send {U+1D56B}
+return
+:c:\MCA::
+Send {U+1D49C}
+return
+:c:\MCB::
+Send {U+212C}
+return
+:c:\MCC::
+Send {U+1D49E}
+return
+:c:\MCD::
+Send {U+1D49F}
+return
+:c:\MCE::
+Send {U+2130}
+return
+:c:\MCF::
+Send {U+2131}
+return
+:c:\MCG::
+Send {U+1D4A2}
+return
+:c:\MCH::
+Send {U+210B}
+return
+:c:\MCI::
+Send {U+2110}
+return
+:c:\MCJ::
+Send {U+1D4A5}
+return
+:c:\MCK::
+Send {U+1D4A6}
+return
+:c:\MCL::
+Send {U+2112}
+return
+:c:\MCM::
+Send {U+2133}
+return
+:c:\MCN::
+Send {U+1D4A9}
+return
+:c:\MCO::
+Send {U+1D4AA}
+return
+:c:\MCP::
+Send {U+1D4AB}
+return
+:c:\MCQ::
+Send {U+1D4AC}
+return
+:c:\MCR::
+Send {U+211B}
+return
+:c:\MCS::
+Send {U+1D4AE}
+return
+:c:\MCT::
+Send {U+1D4AF}
+return
+:c:\MCU::
+Send {U+1D4B0}
+return
+:c:\MCV::
+Send {U+1D4B1}
+return
+:c:\MCW::
+Send {U+1D4B2}
+return
+:c:\MCX::
+Send {U+1D4B3}
+return
+:c:\MCY::
+Send {U+1D4B4}
+return
+:c:\MCZ::
+Send {U+1D4B5}
+return
+:c:\MCa::
+Send {U+1D4B6}
+return
+:c:\MCb::
+Send {U+1D4B7}
+return
+:c:\MCc::
+Send {U+1D4B8}
+return
+:c:\MCd::
+Send {U+1D4B9}
+return
+:c:\MCe::
+Send {U+212F}
+return
+:c:\MCf::
+Send {U+1D4BB}
+return
+:c:\MCg::
+Send {U+210A}
+return
+:c:\MCh::
+Send {U+1D4BD}
+return
+:c:\MCi::
+Send {U+1D4BE}
+return
+:c:\MCj::
+Send {U+1D4BF}
+return
+:c:\MCk::
+Send {U+1D4C0}
+return
+:c:\MCl::
+Send {U+1D4C1}
+return
+:c:\MCm::
+Send {U+1D4C2}
+return
+:c:\MCn::
+Send {U+1D4C3}
+return
+:c:\MCo::
+Send {U+2134}
+return
+:c:\MCp::
+Send {U+1D4C5}
+return
+:c:\MCq::
+Send {U+1D4C6}
+return
+:c:\MCr::
+Send {U+1D4C7}
+return
+:c:\MCs::
+Send {U+1D4C8}
+return
+:c:\MCt::
+Send {U+1D4C9}
+return
+:c:\MCu::
+Send {U+1D4CA}
+return
+:c:\MCv::
+Send {U+1D4CB}
+return
+:c:\MCw::
+Send {U+1D4CC}
+return
+:c:\MCx::
+Send {U+1D4CD}
+return
+:c:\MCy::
+Send {U+1D4CE}
+return
+:c:\MCz::
+Send {U+1D4CF}
+return
 :c:\Mu::
 Send {U+039C}
 return
@@ -921,6 +1155,9 @@ Send {U+03A4}
 return
 :c:\Theta::
 Send {U+0398}
+return
+:c:\To::
+Send {U+21D2}
 return
 :c:\Uparrow::
 Send {U+21D1}
@@ -1791,6 +2028,24 @@ Send {U+22C4}
 return
 :c:\diamondsuit::
 Send {U+2662}
+return
+:c:\dice1::
+Send {U+2680}
+return
+:c:\dice2::
+Send {U+2681}
+return
+:c:\dice3::
+Send {U+2682}
+return
+:c:\dice4::
+Send {U+2683}
+return
+:c:\dice5::
+Send {U+2684}
+return
+:c:\dice6::
+Send {U+2685}
 return
 :c:\digamma::
 Send {U+03DC}
@@ -3664,6 +3919,9 @@ return
 :c:\times::
 Send {U+00D7}
 return
+:c:\to::
+Send {U+2192}
+return
 :c:\top::
 Send {U+22A4}
 return
@@ -4261,6 +4519,9 @@ return
 :c:_a::
 Send {U+2090}
 return
+:c:_c::
+Send {U+A700}
+return
 :c:_e::
 Send {U+2091}
 return
@@ -4309,89 +4570,14 @@ return
 :c:_x::
 Send {U+2093}
 return
+:c:_y::
+Send {U+1D67}
+return
 :c:``::
 Send {U+2018}
 return
 :c:````::
 Send {U+201C}
-return
-:c:a::
-Send {U+0061}
-return
-:c:b::
-Send {U+0062}
-return
-:c:c::
-Send {U+0063}
-return
-:c:d::
-Send {U+0064}
-return
-:c:e::
-Send {U+0065}
-return
-:c:f::
-Send {U+0066}
-return
-:c:g::
-Send {U+0067}
-return
-:c:h::
-Send {U+0068}
-return
-:c:i::
-Send {U+0069}
-return
-:c:j::
-Send {U+006A}
-return
-:c:k::
-Send {U+006B}
-return
-:c:l::
-Send {U+006C}
-return
-:c:m::
-Send {U+006D}
-return
-:c:n::
-Send {U+006E}
-return
-:c:o::
-Send {U+006F}
-return
-:c:p::
-Send {U+0070}
-return
-:c:q::
-Send {U+0071}
-return
-:c:r::
-Send {U+0072}
-return
-:c:s::
-Send {U+0073}
-return
-:c:t::
-Send {U+0074}
-return
-:c:u::
-Send {U+0075}
-return
-:c:v::
-Send {U+0076}
-return
-:c:w::
-Send {U+0077}
-return
-:c:x::
-Send {U+0078}
-return
-:c:y::
-Send {U+0079}
-return
-:c:z::
-Send {U+007A}
 return
 :c:{\AA}::
 Send {U+00C5}

@@ -1,4 +1,4 @@
-characters: 1054
-input strings for characters: 1479
-strings: 1054
-input strings for strings: 1479
+characters: 993
+input strings for characters: 1541
+strings: 993
+input strings for strings: 1541
